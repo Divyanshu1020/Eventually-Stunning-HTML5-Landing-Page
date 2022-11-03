@@ -24,7 +24,7 @@ a:hover{
 body{
     height: 100vh;
 
-    background-image: url('../assets/images/bg.jpg');
+    background-image: url('https://divyanshu1020.github.io/Eventually-Stunning-HTML5-Landing-Page/assets/images/bg.jpg');
      background-color: #212931d7;
   background-blend-mode: multiply;
     background-size: cover;
